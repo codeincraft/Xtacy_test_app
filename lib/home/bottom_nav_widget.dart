@@ -5,7 +5,7 @@ import 'package:estacy/home/referrals.dart';
 import 'package:estacy/home/satistics_screen.dart';
 import 'package:estacy/home/services_screen.dart';
 import 'package:estacy/home/settings_screen.dart';
-import 'package:estacy/home_screen.dart';
+import 'package:estacy/home/home_screen.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_iconly/flutter_iconly.dart';

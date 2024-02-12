@@ -5,7 +5,7 @@ import 'package:estacy/authentication/verify_email.dart';
 import 'package:estacy/authentication/verify_password_otp.dart';
 import 'package:estacy/authentication/welcome_screen.dart';
 import 'package:estacy/home/bottom_nav_widget.dart';
-import 'package:estacy/home_screen.dart';
+import 'package:estacy/home/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
